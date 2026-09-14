@@ -9,7 +9,7 @@ A comprehensive mechanical and fluid power engineering project covering the cata
 
 > 📄 **Full Documentation:**  
 > Detailed component selections, mathematical derivations, schematics, and complete manufacturing drawings are compiled in the engineering report:  
-> 🔗 **[Read Full Engineering Report (PDF)](./docs/Hydraulic_Power_Pack_Report.pdf)**
+> 🔗 **[Read Full Engineering Report (PDF)](./docs/Hydraulic Power Pack Report.pdf)**
 
 ---
 
